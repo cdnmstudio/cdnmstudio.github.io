@@ -41,20 +41,26 @@ function test(){
 		var statusMain = document.createElement("div");
 		statusMain.className = "status-project";
 		var statusKey = document.createElement("div");
-		statusKey.className = "status-project-key";
+		statusKey.style.right = "6px";
+		statusKey.style.position = "relative";
+		statusKey.style.display = "inline-block";	
 		var statusKeyText = document.createTextNode("Статус:")
 		var statusValue = document.createElement("div");
-		statusValue.className = "status-project-value";
+		statusValue.style.display = "inline-block";
+		statusValue.style.float = "right";
 		var statusValueBlock = document.createElement("div");
-		statusValue.style.color = statuses[data2["projects"][w]["status"]].color;
-		statusValue.style.fontWeight = statuses[data2["projects"][w]["status"]].weight;
+		statusValueBlock.style.color = statuses[data2["projects"][w]["status"]].color;
+		statusValueBlock.style.fontWeight = statuses[data2["projects"][w]["status"]].weight;
 		var statusValueText = document.createTextNode(statuses[data2["projects"][w]["status"]].name)
 		var typeMain = document.createElement("div");
 		typeMain.className = "type-project";
 		var typeKey = document.createElement("div");
-		typeKey.className = "status-project-key";
+		typeKey.style.right = "6px";
+		typeKey.style.position = "relative";
+		typeKey.style.display = "inline-block";	
 		var typeValue = document.createElement("div");
-		typeValue.className = "status-project-value";
+		typeValue.style.display = "inline-block";
+		typeValue.style.float = "right";
 		var typeKeyText = document.createTextNode("Тип:");
 		var typeValueText = document.createTextNode(data2["projects"][w]["class"]);
 
@@ -73,7 +79,8 @@ function test(){
 		statusMain.appendChild(statusKey);
 		statusMain.appendChild(statusValue);
 		statusKey.appendChild(statusKeyText);
-		statusValue.appendChild(statusValueText);
+		statusValue.appendChild(statusValueBlock);
+		statusValueBlock.appendChild(statusValueText);
 		project.appendChild(typeMain);
 		typeMain.appendChild(typeKey);
 		typeMain.appendChild(typeValue);

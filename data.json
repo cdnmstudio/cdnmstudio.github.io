@@ -3,7 +3,7 @@ data = {
 		{
 			"name": "VirtHands",
 			"status": 1,
-			"intro": "", //images/TempIntro.png
+			"intro": "",
 			"class": "Гаджет",
 			"author": 0,
 			"url": "",

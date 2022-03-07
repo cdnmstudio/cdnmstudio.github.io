@@ -69,12 +69,3 @@ a{
 	top: 18px;
 	position: relative;
 }
-.status-project-key{
-	right: 6px; 
-	position: relative; 
-	display: inline-block;
-}
-.status-project-value{
-	float:right; 
-	display: inline-block;
-}
