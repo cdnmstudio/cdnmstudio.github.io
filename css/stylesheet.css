@@ -1,0 +1,71 @@
+@font-face {
+	font-family: BebasNeue;
+	src: url(../fonts/BebasNeue.otf);
+}
+a{
+	color: #000000;
+	text-decoration: none;
+}
+.project{
+	display: inline-block; 
+	height: 304px; 
+	width: 264px; 
+	margin-top: 20px; 
+	box-sizing: border-box; 
+	border-radius: 10px; 
+	padding: 20px; 
+	margin-left: 16px; 
+	background-color:white;
+}
+.logo-author{
+	width: 40px; 
+	border-radius: 20px; 
+	display: inline-block; 
+	bottom: 5px; 
+	right: 5px; 
+	position:relative;
+}
+.name-author{
+	font-family: BebasNeue; 
+	right: 2px; 
+	top: 6px; 
+	position: relative; 
+	display: inline-block; 
+	font-size: 19px; 
+	line-height: 15px;
+}
+.spec-author{
+	display: inline-block; 
+	font-family: 'Times New Roman'; 
+	font-size: 13px;
+}
+.intro-project{
+	border-radius: 10px; 
+	width: 224px; 
+	height: 115px; 
+	top: 10px; 
+	position: relative;
+}
+.name-project{
+	font-size: 27px; 
+	font-family: BebasNeue; 
+	top: 21px; 
+	right:6px; 
+	position: relative;
+}
+.status-project{
+	font-size: 16px; 
+	font-family: 'Times New Roman'; 
+	font-style: normal; 
+	font-weight: normal; 
+	top: 16px; 
+	position: relative;
+}
+.type-project{
+	font-size: 16px; 
+	font-family: 'Times New Roman'; 
+	font-style: normal; 
+	font-weight: normal;
+	top: 18px;
+	position: relative;
+}
