@@ -1,0 +1,78 @@
+data = {
+	"projects":[
+		{
+			"name": "VirtHands",
+			"status": 1,
+			"intro": "", //images/TempIntro.png
+			"class": "Гаджет",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		},
+		{
+			"name": "MusiCode",
+			"status": 1,
+			"intro": "images/IntroMusiCode.png",
+			"class": "Приложение",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		},
+		{
+			"name": "Mafio",
+			"status": 0,
+			"intro": "",
+			"class": "Игра",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		},
+		{
+			"name": "VirtCur",
+			"status": 0,
+			"intro": "",
+			"class": "Приложение",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		},
+		{
+			"name": "CS:Tasks",
+			"status": 0,
+			"intro": "",
+			"class": "Приложение",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		},
+		{
+			"name": "Zoko",
+			"status": 0,
+			"intro": "",
+			"class": "Игра",
+			"author": 0,
+			"url": "",
+			"comment_url": "",
+			"git": "",
+			"donate_url": "",
+		}
+	],
+	"members":[
+		{
+			"nick": "OrnarasUS",
+			"avatar": "https://telegra.ph/file/e0bc48ebe95a701596682.jpg",
+			"spec": "Программист",
+			"feedback": "https://t.me/OrnarasUS"
+		}
+	]
+}
