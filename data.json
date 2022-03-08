@@ -6,10 +6,7 @@ data = {
 			"intro": "",
 			"class": "Гаджет",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": "https://github.com/ornarasus/VirtHands"
 		},
 		{
 			"name": "MusiCode",
@@ -17,10 +14,7 @@ data = {
 			"intro": "images/IntroMusiCode.png",
 			"class": "Приложение",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": "https://github.com/ezoteam/MusiCode"
 		},
 		{
 			"name": "Mafio",
@@ -28,10 +22,7 @@ data = {
 			"intro": "",
 			"class": "Игра",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": ""
 		},
 		{
 			"name": "VirtCur",
@@ -39,10 +30,7 @@ data = {
 			"intro": "",
 			"class": "Приложение",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": ""
 		},
 		{
 			"name": "CS:Tasks",
@@ -50,10 +38,7 @@ data = {
 			"intro": "",
 			"class": "Приложение",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": ""
 		},
 		{
 			"name": "Zoko",
@@ -61,10 +46,7 @@ data = {
 			"intro": "",
 			"class": "Игра",
 			"author": 0,
-			"url": "",
-			"comment_url": "",
-			"git": "",
-			"donate_url": "",
+			"git": ""
 		}
 	],
 	"members":[

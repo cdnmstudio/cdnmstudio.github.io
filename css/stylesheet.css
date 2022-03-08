@@ -6,6 +6,27 @@ a{
 	color: #000000;
 	text-decoration: none;
 }
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:focus {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+a:active {
+
+	color: #000000;
+	text-decoration: none;
+}
 .project{
 	display: inline-block; 
 	height: 304px; 

@@ -10,7 +10,7 @@ statuses[2] = new status("В долгом ящике","#ED1C24",400);
 statuses[3] = new status("Альфа-тест","#BA8759",400);
 statuses[4] = new status("Бета-тест","#D4AF37",700);
 statuses[5] = new status("Релиз","#000000",700);
-function test(){
+function load(){
 	var data2 = JSON.parse(JSON.stringify(data));
 	var projectsDoc = document.getElementById("projects");
 	for(var w = 0; w<data2["projects"].length; w++){		
@@ -35,8 +35,9 @@ function test(){
 			intro.src = "images/TempIntro.png";
 		else
 			intro.src = data2["projects"][w]["intro"];
-		var name = document.createElement("div");
+		var name = document.createElement("a");
 		name.className = "name-project";
+		name.href = data2["projects"][w]["git"];
 		var nameText = document.createTextNode(data2["projects"][w]["name"]);
 		var statusMain = document.createElement("div");
 		statusMain.className = "status-project";
