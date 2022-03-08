@@ -6,7 +6,7 @@ data = {
 			"intro": "",
 			"class": "Гаджет",
 			"author": 0,
-			"git": "https://github.com/ornarasus/VirtHands"
+			"git": "https://github.com/ezoteam/VirtHands"
 		},
 		{
 			"name": "MusiCode",
@@ -22,7 +22,7 @@ data = {
 			"intro": "",
 			"class": "Игра",
 			"author": 0,
-			"git": ""
+			"git": "https://github.com/ezoteam/Mafio"
 		},
 		{
 			"name": "VirtCur",
@@ -30,7 +30,7 @@ data = {
 			"intro": "",
 			"class": "Приложение",
 			"author": 0,
-			"git": ""
+			"git": "https://github.com/ezoteam/VirtCur"
 		},
 		{
 			"name": "CS:Tasks",
@@ -38,7 +38,7 @@ data = {
 			"intro": "",
 			"class": "Приложение",
 			"author": 0,
-			"git": ""
+			"git": "https://github.com/ezoteam/CSTasks"
 		},
 		{
 			"name": "Zoko",
@@ -46,7 +46,7 @@ data = {
 			"intro": "",
 			"class": "Игра",
 			"author": 0,
-			"git": ""
+			"git": "https://github.com/ezoteam/Zoko"
 		}
 	],
 	"members":[
