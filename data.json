@@ -33,14 +33,6 @@ data = {
 			"git": "https://github.com/ezoteam/VirtCur"
 		},
 		{
-			"name": "CS:Tasks",
-			"status": 0,
-			"intro": "",
-			"class": "Приложение",
-			"author": 0,
-			"git": "https://github.com/ezoteam/CSTasks"
-		},
-		{
 			"name": "Zoko",
 			"status": 0,
 			"intro": "",
