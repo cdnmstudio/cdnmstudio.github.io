@@ -9,14 +9,6 @@ data = {
 			"git": "https://github.com/ezoteam/VirtHands"
 		},
 		{
-			"name": "MusiCode",
-			"status": 1,
-			"intro": "images/IntroMusiCode.png",
-			"class": "Приложение",
-			"author": 0,
-			"git": "https://github.com/ezoteam/MusiCode"
-		},
-		{
 			"name": "Mafio",
 			"status": 0,
 			"intro": "",
