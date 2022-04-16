@@ -10,27 +10,11 @@ data = {
 		},
 		{
 			"name": "Mafio",
-			"status": 0,
+			"status": 1,
 			"intro": "",
 			"class": "Игра",
 			"author": 0,
 			"git": "https://github.com/ezoteam/Mafio"
-		},
-		{
-			"name": "VirtCur",
-			"status": 0,
-			"intro": "",
-			"class": "Приложение",
-			"author": 0,
-			"git": "https://github.com/ezoteam/VirtCur"
-		},
-		{
-			"name": "Zoko",
-			"status": 0,
-			"intro": "",
-			"class": "Игра",
-			"author": 0,
-			"git": "https://github.com/ezoteam/Zoko"
 		}
 	],
 	"members":[
