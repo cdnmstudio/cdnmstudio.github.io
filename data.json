@@ -3,34 +3,34 @@ data = {
 		{
 			"name": "Codename: 1GA",
 			"status": 0,
-			"intro": "images/1ga.png",
-			"class": "Анонс",
+			"intro": "images/1GA.png",
+			"class": "Game",
 			"author": 0,
 			"git": "https://trello.com/b/xsHaRe0Z/codename-1ga"
 		},
 		{
-			"name": "???",
+			"name": "Codename: 2SAW",
 			"status": 0,
 			"intro": "",
-			"class": "???",
+			"class": "Software",
 			"author": 0,
-			"git": ""
+			"git": "https://trello.com/b/vpovJyh8/codename-2saw"
 		},
 		{
-			"name": "???",
+			"name": "Codename: 3D",
 			"status": 0,
 			"intro": "",
-			"class": "???",
+			"class": "Device",
 			"author": 0,
-			"git": ""
+			"git": "https://trello.com/b/YWsWbReh/codename-3d"
 		},
 		{
-			"name": "???",
+			"name": "Codename: 4SDK",
 			"status": 0,
 			"intro": "",
-			"class": "???",
+			"class": "SDK",
 			"author": 0,
-			"git": ""
+			"git": "https://trello.com/b/HfEhOo7i/codename-4sdk"
 		},
 	],
 	"members":[
