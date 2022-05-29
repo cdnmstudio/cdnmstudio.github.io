@@ -4,7 +4,7 @@ data = {
 			"name": "Codename: 1GA",
 			"status": 0,
 			"intro": "images/1GA.png",
-			"class": "Game",
+			"class": "Игра",
 			"author": 0,
 			"git": "https://trello.com/b/xsHaRe0Z/codename-1ga"
 		},
@@ -12,15 +12,15 @@ data = {
 			"name": "Codename: 2SAW",
 			"status": 0,
 			"intro": "images/2SAW.png",
-			"class": "Software",
+			"class": "Программа",
 			"author": 0,
 			"git": "https://trello.com/b/vpovJyh8/codename-2saw"
 		},
 		{
 			"name": "Codename: 3D",
-			"status": 0,
+			"status": 1,
 			"intro": "images/3D.png",
-			"class": "Device",
+			"class": "Гаджет",
 			"author": 0,
 			"git": "https://trello.com/b/YWsWbReh/codename-3d"
 		},
